@@ -18,7 +18,6 @@
 
 <br />
 
-![Banner](./images/banner.png)
 
 </div>
 
@@ -40,12 +39,18 @@ The patient owns the repository. Doctors are the contributors.
 
 <div align="center">
 
+<img src="./images/sebrae-start-digital.png" alt="Selected by Sebrae for Startups — START DIGITAL 2026" width="720" />
+
+<br /><br />
+
 | 🚀 Program | 🎯 Stage | 🧭 Focus |
 |:---:|:---:|:---:|
 | **Sebrae for Startups** | Pre-acceleration | MVP & Validation |
 | **START DIGITAL 2026** | Selected Startup | First Sales |
 
 </div>
+
+
 
 > Selected by **Sebrae for Startups** to join the **START DIGITAL** pre-acceleration program — a 6-month journey focused on MVP, validation, and first sales.
 
