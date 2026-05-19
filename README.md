@@ -161,23 +161,15 @@ Tuned for sensitive clinical data flows.
 
 <div align="center">
 
-![Dashboard](./images/dashboard.png)
-*Patient Dashboard*
+<img src="./images/showcase-landing.png" alt="HealthGit — Landing" width="900" />
 
-<br />
+*Seja Dono do Seu Histórico Médico — Versionado. Imutável. Inteligente.*
 
-![Clinical AI](./images/clinical-ai.png)
-*Clinical AI Insights*
+<br /><br />
 
-<br />
+<img src="./images/showcase-repository.png" alt="HealthGit — Health Repository" width="900" />
 
-![Blockchain Layer](./images/blockchain.png)
-*Blockchain Verification Layer*
-
-<br />
-
-![Medical History](./images/history.png)
-*Versioned Medical History*
+*Health Repository — Compliance, IA Clínica & Timeline on-chain*
 
 </div>
 
